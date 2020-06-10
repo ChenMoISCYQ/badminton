@@ -1,0 +1,51 @@
+{
+    "data": [
+      {
+        "name": "teachs",
+        "items": [
+            {"tid":1,"purl":"http://localhost:3000/images/teach/t1.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1","content":"大马羽球传奇李宗伟在28日云顶举行的“世纪之战”表演赛重踏赛场，为超过千名球迷送上他今年6月13日宣布正式退役后的“复出战”。“世纪之战”的焦点完全落在李宗伟身上。主办方在开场后就重演去年李宗伟自传电影《败者为王》中李宗伟对战林丹的经典一幕，电影中饰演少年版宗伟的曾冠源，在观众面前再次复制了2006年大马公开赛决赛决胜局一幕，他在场上以13比20落后饰演林丹的林子健，之后神奇地连得7分追平对手并最终完成逆转。"},
+            {"tid":2,"purl":"http://localhost:3000/images/teach/t2.png","title":"羽新知羽毛球教学第一期（正、反手基础握拍）","time":"2019-07-25","src":"//player.bilibili.com/player.html?aid=60713598&cid=105666192&page=1","content":"据全英赛官网2019年12月28日报道，前英格兰国家队男单选手欧斯夫被授予“不列颠帝国奖章”，他接受采访表示：“能够获得这一荣誉，我感到非常荣幸和激动。”欧斯夫出生于1986年，他是一位印度裔英格兰男子羽毛球运动员，擅长男单项目。自从2008年以来，他一直是英格兰的头号男单选手，并曾7次夺得英国全国冠军。"},
+            {"tid":3,"purl":"http://localhost:3000/images/teach/t3.png","title":"【羽毛球教学】解惑，手腕如何发力","time":"2019-11-12","src":"//player.bilibili.com/player.html?aid=75417244&cid=129005170&page=1","content":"据全英赛官网2019年12月28日报道，前英格兰国家队男单选手欧斯夫被授予“不列颠帝国奖章”，他接受采访表示：“能够获得这一荣誉，我感到非常荣幸和激动。”欧斯夫出生于1986年，他是一位印度裔英格兰男子羽毛球运动员，擅长男单项目。自从2008年以来，他一直是英格兰的头号男单选手，并曾7次夺得英国全国冠军。"},
+            {"tid":4,"purl":"http://localhost:3000/images/teach/t4.png","title":"杨晨大神国庆特辑 大神教你：杀，吊，搓，勾，挑，高远球羽毛球教学","time":"2018-07-15 ","src":"//player.bilibili.com/player.html?aid=26925484&cid=46364194&page=1"},
+            {"tid":5,"purl":"http://localhost:3000/images/teach/t5.png","title":"【羽毛球教学】 羽毛球技巧, 教你如何正手劈杀球!-_超清","time":"2019-03-03","src":"//player.bilibili.com/player.html?aid=45216921&cid=79166158&page=1"},
+            {"tid":6,"purl":"http://localhost:3000/images/teach/t6.png","title":"惠程俊羽毛球教学全集","time":"2019-04-26 ","src":"//player.bilibili.com/player.html?aid=50557971&cid=88513705&page=1"},
+            {"tid":7,"purl":"http://localhost:3000/images/teach/t7.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1"},
+            {"tid":8,"purl":"http://localhost:3000/images/teach/t8.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1"},
+            {"tid":9,"purl":"http://localhost:3000/images/teach/t9.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1"},
+            {"tid":10,"purl":"http://localhost:3000/images/teach/t10.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1"},
+            {"tid":11,"purl":"http://localhost:3000/images/teach/t1.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1"},
+            {"tid":12,"purl":"http://localhost:3000/images/teach/t1.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1"},
+            {"tid":13,"purl":"http://localhost:3000/images/teach/t1.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1"},
+            {"tid":14,"purl":"http://localhost:3000/images/teach/t1.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1"},
+            {"tid":15,"purl":"http://localhost:3000/images/teach/t1.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1"},
+            {"tid":16,"purl":"http://localhost:3000/images/teach/t1.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1"},
+            {"tid":17,"purl":"http://localhost:3000/images/teach/t1.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1"},
+            {"tid":18,"purl":"http://localhost:3000/images/teach/t1.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1"},
+            {"tid":19,"purl":"http://localhost:3000/images/teach/t1.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1"},
+            {"tid":20,"purl":"http://localhost:3000/images/teach/t1.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1"},
+            {"tid":21,"purl":"http://localhost:3000/images/teach/t1.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1"},
+            {"tid":22,"purl":"http://localhost:3000/images/teach/t1.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1"},
+            {"tid":23,"purl":"http://localhost:3000/images/teach/t1.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1"},
+            {"tid":24,"purl":"http://localhost:3000/images/teach/t1.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1"},
+            {"tid":25,"purl":"http://localhost:3000/images/teach/t1.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1"},
+            {"tid":26,"purl":"http://localhost:3000/images/teach/t1.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1"},
+            {"tid":27,"purl":"http://localhost:3000/images/teach/t1.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1"},
+            {"tid":28,"purl":"http://localhost:3000/images/teach/t1.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1"},
+            {"tid":29,"purl":"http://localhost:3000/images/teach/t1.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1"},
+            {"tid":30,"purl":"http://localhost:3000/images/teach/t1.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1"},
+            {"tid":31,"purl":"http://localhost:3000/images/teach/t1.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1"},
+            {"tid":32,"purl":"http://localhost:3000/images/teach/t1.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1"},
+            {"tid":33,"purl":"http://localhost:3000/images/teach/t1.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1"},
+            {"tid":34,"purl":"http://localhost:3000/images/teach/t1.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1"},
+            {"tid":35,"purl":"http://localhost:3000/images/teach/t1.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1"},
+            {"tid":36,"purl":"http://localhost:3000/images/teach/t1.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1"},
+            {"tid":37,"purl":"http://localhost:3000/images/teach/t1.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1"},
+            {"tid":38,"purl":"http://localhost:3000/images/teach/t1.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1"},
+            {"tid":39,"purl":"http://localhost:3000/images/teach/t1.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1"},
+            {"tid":40,"purl":"http://localhost:3000/images/teach/t1.png","title":"【高清】羽毛球新人必看：央视羽毛球教学超详细，击球、脚步、反手","time":"2018-08-26","src":"//player.bilibili.com/player.html?aid=36303064&cid=63732695&page=1"}
+            
+            
+        ]
+      }
+    ]
+}
